@@ -1,6 +1,9 @@
 _repo: The-Nuttall-Encyclop-dia--13-Being-a-Concise-and-Comprehensive-Dictionary-of-General-Knowledg__12342
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Nuttall Encyclopaedia
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nuttall, P. Austin
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4325
     wikipedia: http://en.wikipedia.org/wiki/James_Wood_%28encyclopedist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12342#The-Nuttall-Encyclop-dia--13-Being-a-Concise-and-Comprehensive-Dictionary-of-General-Knowledg_
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
